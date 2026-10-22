@@ -267,17 +267,3 @@ Confirm that `src/manimManifest.ts` contains the actual generated frame count.
 
 The npm cache directory is not writable in the current environment. Retry with appropriate permissions or configure npm to use a writable cache directory.
 
-## Publishing
-
-If this folder is not already a Git repository:
-
-```powershell
-git init
-git add .
-git commit -m "Add Manim Remotion explainer skill"
-git branch -M main
-git remote add origin <your-repository-url>
-git push -u origin main
-```
-
-Before publishing, add a license file if you intend to permit reuse. This repository currently does not declare a license.
