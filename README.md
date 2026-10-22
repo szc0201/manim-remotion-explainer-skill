@@ -1,6 +1,6 @@
-# manim-remotion-explainer-skill
-
 # Manim + Remotion Explainer
+
+**English** | [简体中文](README.zh-CN.md)
 
 A Codex skill for building and rendering code-generated mathematics and science explainer videos with **Remotion**, **React/SVG**, and **Manim**.
 
