@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manim + Remotion 科普视频"
+  short_description: "用代码制作数学与科学动画"
+  default_prompt: "使用 $manim-remotion-explainer 根据提示词完成并渲染一个数学或科学动画。"
