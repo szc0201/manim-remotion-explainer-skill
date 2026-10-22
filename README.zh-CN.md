@@ -269,17 +269,3 @@ npm run manim
 
 当前环境的 npm 缓存目录不可写。请使用合适权限重试，或把 npm 缓存配置到可写目录。
 
-## 发布到 GitHub
-
-如果目录还不是 Git 仓库：
-
-```powershell
-git init
-git add .
-git commit -m "Add Manim Remotion explainer skill"
-git branch -M main
-git remote add origin <你的仓库地址>
-git push -u origin main
-```
-
-如果需要允许他人复用代码，请在发布前添加 `LICENSE` 文件。本仓库目前尚未声明许可证。
